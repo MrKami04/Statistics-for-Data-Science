@@ -1,0 +1,21 @@
+Employee_ID,Name,Department,Gender,Age,Education_Level,Experience_Years,Job_Role,Performance_Rating,Status
+E001,Alice,Engineering,Female,29,Bachelor,5,Software Engineer,Excellent,Active
+E002,Bob,Marketing,Male,35,Master,10,Digital Marketer,Good,Active
+E003,Charlie,HR,Male,41,Bachelor,15,HR Manager,Average,On Leave
+E004,Diana,Engineering,Female,26,Master,3,Data Scientist,Excellent,Active
+E005,Evan,Sales,Male,38,Bachelor,12,Sales Executive,Poor,Resigned
+E006,Fatima,Engineering,Female,30,PhD,6,AI Engineer,Good,Active
+E007,George,Finance,Male,45,Master,20,Accountant,Excellent,Retired
+E008,Hira,HR,Female,33,Bachelor,8,Recruiter,Good,Active
+E009,Ian,Engineering,Male,27,Master,4,DevOps Engineer,Average,Active
+E010,Julia,Sales,Female,31,Bachelor,7,Sales Executive,Good,On Leave
+E011,Kamran,Engineering,Male,24,Bachelor,2,Junior Developer,Average,Active
+E012,Linda,Marketing,Female,29,Master,6,Content Strategist,Good,Active
+E013,Mark,Engineering,Male,36,PhD,11,Team Lead,Excellent,Active
+E014,Nina,Finance,Female,40,Bachelor,17,Finance Manager,Average,Retired
+E015,Oscar,HR,Male,37,Master,13,HR Specialist,Poor,Resigned
+E016,Parveen,Marketing,Female,32,Bachelor,9,SEO Analyst,Good,Active
+E017,Quaid,Sales,Male,34,Master,10,Sales Manager,Excellent,Active
+E018,Rida,Engineering,Female,28,Master,5,QA Engineer,Good,Active
+E019,Steve,Engineering,Male,39,PhD,14,System Architect,Excellent,Active
+E020,Tanya,Finance,Female,35,Master,12,Auditor,Good,On Leave
